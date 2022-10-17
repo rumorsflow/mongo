@@ -2,8 +2,8 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/frankban/quicktest v1.14.3 h1:FJKSZTDHjyhriyC81FLQ0LY93eSai0ZyR/ZIkd3ZUKE=
-github.com/go-funcards/slice v0.0.0-20221006100628-62fc5503cf4a h1:JNToNTE9aPXKAxpwzJ28StWacpmepohDdIy0z3FLCFY=
-github.com/go-funcards/slice v0.0.0-20221006100628-62fc5503cf4a/go.mod h1:oHaylI7HUgl6z65LZHWsyroQY2gz9q2bkPZGRqEPox0=
+github.com/go-fc/slice v0.0.0-20221017134547-de0d7a158c21 h1:eLIVtiop4+FihgTWuz+GuobGNlDoWn+8AraJSfXAtGk=
+github.com/go-fc/slice v0.0.0-20221017134547-de0d7a158c21/go.mod h1:uP15fmeIw/RB/jdPvzRdL9iKjE1ABtMzlofP0q/8xG0=
 github.com/golang/snappy v0.0.1 h1:Qgr9rKW7uDUkrbSmQeiDsGa8SjGyCOGtuasMWwvp2P4=
 github.com/golang/snappy v0.0.1/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
@@ -26,8 +26,8 @@ github.com/roadrunner-server/errors v1.2.0/go.mod h1:z0ECxZp/dDa5RahtMcy4mBIavVx
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
 github.com/rumorsflow/contracts v0.0.0-20221005155510-69014b04a1a2 h1:Auz+TLYY0VgNPlRqbZPIUwQ6Y2QL/b6TkIXzHAQBYu0=
 github.com/rumorsflow/contracts v0.0.0-20221005155510-69014b04a1a2/go.mod h1:iAzWTKiAyTvhl2gF9G8xKYRwvf3E55lm3xkWJ17R2Bc=
-github.com/rumorsflow/mongo-ext v0.0.0-20221010091418-14a65836ad32 h1:xTZFjtO7bdzDBGCgmDmSsZzvxNZrY15Kvf/1vD3slcI=
-github.com/rumorsflow/mongo-ext v0.0.0-20221010091418-14a65836ad32/go.mod h1:XsdvyAH2PjB677NKG5IwxDkl3tOwg+raF54GOFzp5ow=
+github.com/rumorsflow/mongo-ext v0.0.0-20221017134858-944392c49655 h1:YJhV0mkxdeHG9/9REHr4a7e+Um5Nl7DJA9ryMTjduX0=
+github.com/rumorsflow/mongo-ext v0.0.0-20221017134858-944392c49655/go.mod h1:yv9AU3D69YujYJucZ7v9RKAy22rNZndHnLgAhMcP86I=
 github.com/spf13/cast v1.5.0 h1:rj3WzYc11XZaIZMPKmwP96zkFEnnAmV8s6XbB2aY32w=
 github.com/spf13/cast v1.5.0/go.mod h1:SpXXQ5YoyJw6s3/6cMTQuxvgRl3PCJiyaX9p6b155UU=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

@@ -5,12 +5,12 @@ go 1.19
 require (
 	github.com/roadrunner-server/errors v1.2.0
 	github.com/rumorsflow/contracts v0.0.0-20221005155510-69014b04a1a2
-	github.com/rumorsflow/mongo-ext v0.0.0-20221010091418-14a65836ad32
+	github.com/rumorsflow/mongo-ext v0.0.0-20221017134858-944392c49655
 	go.mongodb.org/mongo-driver v1.10.3
 )
 
 require (
-	github.com/go-funcards/slice v0.0.0-20221006100628-62fc5503cf4a // indirect
+	github.com/go-fc/slice v0.0.0-20221017134547-de0d7a158c21 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe // indirect
