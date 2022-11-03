@@ -24,8 +24,8 @@ github.com/roadrunner-server/errors v1.2.0/go.mod h1:z0ECxZp/dDa5RahtMcy4mBIavVx
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
 github.com/rumorsflow/contracts v0.0.0-20221005155510-69014b04a1a2 h1:Auz+TLYY0VgNPlRqbZPIUwQ6Y2QL/b6TkIXzHAQBYu0=
 github.com/rumorsflow/contracts v0.0.0-20221005155510-69014b04a1a2/go.mod h1:iAzWTKiAyTvhl2gF9G8xKYRwvf3E55lm3xkWJ17R2Bc=
-github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002 h1:+c85DFHPB7mewXH4U3rgTqH2alcsPlQ/lfcy70iGDQI=
-github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002/go.mod h1:S5V4Fef/fu6IKXEErl1jK6TemNW2BamOmeRKEtqWbDM=
+github.com/rumorsflow/mongo-ext v0.0.0-20221103002717-ea1c332bb951 h1:NOxTmfSAA0si26dRnTug7muZIjuyJ+gOIeYQGFM1uYM=
+github.com/rumorsflow/mongo-ext v0.0.0-20221103002717-ea1c332bb951/go.mod h1:S5V4Fef/fu6IKXEErl1jK6TemNW2BamOmeRKEtqWbDM=
 github.com/spf13/cast v1.5.0 h1:rj3WzYc11XZaIZMPKmwP96zkFEnnAmV8s6XbB2aY32w=
 github.com/spf13/cast v1.5.0/go.mod h1:SpXXQ5YoyJw6s3/6cMTQuxvgRl3PCJiyaX9p6b155UU=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
